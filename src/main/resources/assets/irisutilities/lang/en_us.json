@@ -3,6 +3,10 @@
   "block.examplemod.example_block": "Example Block",
   "item.examplemod.example_item": "Example Item",
 
+
+  "block.irisutilities.moonlight_flower" : "Moonlight Flower",
+  "item.irisutilities.moonlight_flower" : "Moonlight Flower",
+  "creativetab.irisutilities.iris_utilities_items" : "Iris Utilities",
   "examplemod.configuration.title": "Example Mod Configs",
   "examplemod.configuration.section.examplemod.common.toml": "Example Mod Configs",
   "examplemod.configuration.section.examplemod.common.toml.title": "Example Mod Configs",
